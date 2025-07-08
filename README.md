@@ -13,7 +13,7 @@
 
 ## Language and Tools
 
-<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="top_right" alt="Computador iuriCode">
 
 #### Currently Studying-
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
@@ -32,5 +32,6 @@
 
    ## Contact Me on:
   [<img height="72px" width="72px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>](https://instagram.com/xushivu)
+  
    
    
