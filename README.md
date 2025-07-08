@@ -3,8 +3,9 @@
 
 
 <h5 align="center">
-  <font color="#DC143C">
-    " My Unmatched Perspicacity coupled with Sheer Indefatigability makes me a Feared Opponent in any realm of Human Endeavor. "
+  <font color="#9B30FF">
+    "My Unmatched Perspicacity coupled with Sheer amount of Indefatigability makes me a Feared Opponent in any realm of Human Endeavor"
   </font>
 </h5>
-<h4 align="center"><font color="#DC143C">- Emory Tate </h4>
+<h5 align="center"><font color="#9B30FF">- Emory Tate -</font></h6>
+
