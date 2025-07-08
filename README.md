@@ -11,3 +11,5 @@
 
 <br>
 
+<img src="assets/laptop-coffee.png" align="left" width="200" style="margin-right: 20px;" />
+
