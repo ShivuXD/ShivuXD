@@ -23,4 +23,4 @@
 #### Coding at the moment on-
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/C)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fgoogle-colab-logo&psig=AOvVaw0m8oFjTS3g2AAPmSxy9y3k&ust=1752058625616000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiuupqNrY4DFQAAAAAdAAAAABAE"/>](https://colab.research.google.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>]
