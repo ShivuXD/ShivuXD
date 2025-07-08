@@ -2,12 +2,12 @@
 
 
 
-<h5 align="center">
+<h4 align="center">
   <font color="#9B30FF">
     "My Unmatched Perspicacity coupled with Sheer amount of Indefatigability makes me a Feared Opponent in any realm of Human Endeavor"
   </font>
-</h5>
-<h5 align="center"><font color="#9B30FF">- Emory Tate -</font></h6>
+</h4>
+<h4 align="center"><font color="#9B30FF">- Emory Tate -</font></h4>
 
 <br>
 
