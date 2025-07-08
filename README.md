@@ -11,5 +11,5 @@
 
 <br>
 
-<img src="assets/laptop-coffee.png" align="left" width="200" style="margin-right: 20px;" />
+<img src="https://github.com/ShivuXD/ShivuXD/blob/main/Laptop-Github.png" align="left" width="200" style="margin-right: 20px;" />
 
