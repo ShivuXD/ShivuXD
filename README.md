@@ -13,7 +13,7 @@
 
 ## Language and Tools
 
-<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="600px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" style="position: relative; top: -40px;">
+<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="600px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" style="position: relative; top: 40px;">
 
 #### Currently Studying-
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
