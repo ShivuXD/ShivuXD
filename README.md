@@ -15,7 +15,7 @@
 
 <img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Central Language-
+#### Currently Studying-
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://installc.org/)
 
