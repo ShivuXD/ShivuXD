@@ -12,6 +12,7 @@
 <br>
 
 <img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## Language and Tools
 
 
