@@ -13,8 +13,9 @@
 
 ## Language and Tools
 
-<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" style="margin-top: -40px;" width="400px" align="right" alt="Computador iuriCode">
+## Language and Tools
 
+<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" style="margin-top: -40px; display: block; float: right;" width="400px" alt="Computador iuriCode">
 
 
 
