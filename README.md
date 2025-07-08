@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Shivu+xd.;I'm+an+Aspiring+AI+Engineer.;Learning+Python+and+ML!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Shivam+Sagar.;I'm+an+Aspiring+Computer+Science+Engineer.;Nice+to+meet+you;Feel+free+to+check+out+my+projects!)](https://git.io/typing-svg)
 
