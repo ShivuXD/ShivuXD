@@ -2,5 +2,5 @@
 
 
 
-<h5 align="center">"My Unmatched Perspicacity coupled with Sheer Indefatigability makes me a Feared Opponent in any realm of Human Endeavor"</h5>
+<h5 align="center">" My Unmatched Perspicacity coupled with Sheer Indefatigability makes me a Feared Opponent in any realm of Human Endeavor. "</h5>
 <h4 align="center">- Emory Tate </h4>
