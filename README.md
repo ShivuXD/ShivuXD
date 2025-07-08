@@ -31,6 +31,6 @@
 
 
    ## Contact Me on:
-  [<img height="75px" width="75px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>](https://instagram.com/xushivu)
+  [<img height="72px" width="72px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>](https://instagram.com/xushivu)
    
    
