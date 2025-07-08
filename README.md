@@ -15,7 +15,7 @@
 
 <img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" style="margin-top: -40px;" width="400px" align="right" alt="Computador iuriCode">
 <div style="clear: right;"></div>
-<hr>
+
 
 
 #### Currently Studying-
