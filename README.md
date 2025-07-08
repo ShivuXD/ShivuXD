@@ -12,8 +12,7 @@
 <br>
 
 ## Language and Tools
-
-<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" width="400px" style="display: block; margin-top: -40px; margin-left: auto; margin-right: 0;" alt="Computador iuriCode">
+<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Currently Studying-
