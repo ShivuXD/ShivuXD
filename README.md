@@ -24,4 +24,4 @@
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://installc.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>](https://colab.research.google.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=ziVZe0j3VbVK&format=png&color=000000"/>]()
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=000000"/>](https://installc.org/)
