@@ -4,10 +4,10 @@
 
 <h5 align="center">
   <font color="#9B30FF">
-    "My Unmatched Perspicacity coupled with Sheer amount of Indefatigability makes me a Feared Opponent in any realm of Human Endeavor"
+    "Code and Caffiene"
   </font>
 </h5>
-<h4 align="center"><font color="#9B30FF">- Emory Tate -</font></h4>
+<h4 align="center"><font color="#9B30FF">- Me -</font></h4>
 
 <br>
 <img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
