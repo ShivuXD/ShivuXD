@@ -29,7 +29,7 @@
   ### Programming Arsenal -
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>](https://colab.research.google.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=000000"/>](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjRvIX-ka2OAxW7g0sFHemJCbgYACICCAEQABoCc2Y&co=1&ase=2&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu9vT0Bn3IhClFlELFrV8e25k4hTLpw3igmh5C_AWfP4LHF-iO6Ad4BoC7PkQAvD_BwE&ohost=www.google.com&cid=CAESV-D2xSUWr0Zm8TkcDKrbGmGeMBqyBa-HlwLmqOWE_kF8TrmKy8heZpG6nPU6PcxEVxgJtvEsmG8-dBcMAJzGElLRaIhKBxGy4GR5mOio4eOh3zFo5CVHng&category=acrcp_v1_45&sig=AOD64_3AtjaWEUbPM_DlL5Vm6_DVaptHxQ&q&nis=4&adurl&ved=2ahUKEwjfvYD-ka2OAxVXd2wGHZJEGm4Q0Qx6BAgJEAE)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png"/>]
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/ShivuXD)
 
 
