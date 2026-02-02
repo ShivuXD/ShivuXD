@@ -40,11 +40,5 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.google.com/)
 
    <br>
-
-
-   ## Contact Me on:
-  [<img height="72px" width="72px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>](https://instagram.com/shivmamba)
-  [<img height="72px" width="72px" alt="Email Me" src="https://img.icons8.com/color/96/gmail-new.png" />](mailto:shivamkv3patialapunjab@gmail.com)
-  
    
    
