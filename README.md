@@ -19,6 +19,7 @@
 #### Currently Studying-
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://installc.org/)
+  [<imag_height="48px"_width="48px"_alt="Icone VS-Code"_src+"https://skillicons.dev/icons?i=javascript"/>]
 
 
 #### Coding at the moment on-
