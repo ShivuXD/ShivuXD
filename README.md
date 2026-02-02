@@ -12,7 +12,7 @@
 <br>
 <img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Language and Tools
+## Operational Stack
 
 
 
@@ -26,14 +26,14 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
   
   
-  ### Programming Arsenal -
+  ### Programming Arsenal-
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>](https://colab.research.google.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png"/>](https://www.dev-cpp.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/ShivuXD)
 
 
-### Database -
+### Database-
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
