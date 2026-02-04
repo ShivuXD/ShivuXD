@@ -32,7 +32,7 @@
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>](https://colab.research.google.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png"/>](https://www.dev-cpp.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/ShivuXD)
-
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pgadmin.svg"/>](https://www.postgresql.org/)
 
 ### Database-
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
