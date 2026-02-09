@@ -42,7 +42,8 @@
 
    <br>  
 
-   <p align="center">
+  ## Progress Snake
+  <p align="center">
   <img src="https://github.com/ShivuXD/ShivuXD/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
