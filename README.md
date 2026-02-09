@@ -43,10 +43,9 @@
    <br>  
 
   ## Progress Snake
-  <p align="center">
-  <img src="https://github.com/ShivuXD/ShivuXD/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+  <div align="center">
+  <img src="https://github.com/shaxntanu/shaxntanu/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 
 
