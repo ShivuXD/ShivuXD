@@ -1,7 +1,3 @@
-<a href="https://v0-project-2lc3dqlla-shivamkv3patialapunjab-8933s-projects.vercel.app/">
-  <img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png">
-</a>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+.+.+.;I'm+Shivam.;Aspiring+Computer+Engineer;Learning+Systems.+Building+what+survives.)](https://git.io/typing-svg)
 
 
