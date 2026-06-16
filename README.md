@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+.+.+.;I'm+Shivam.;Aspiring+Computer+Engineer;Learning+Systems.+Building+what+survives.)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://github.com/ShivuXD/ShivuXD/blob/main/Bg.gif?raw=true" width="100%" height="220">
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+.+.+.;I'm+Shivam.;Aspiring+Computer+Engineer;Learning+Systems.+Building+what+survives.)](https://git.io/typing-svg)
 
 <h5 align="center">
   <font color="#9B30FF">
