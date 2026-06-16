@@ -38,16 +38,12 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
 
    <br>  
-   <br>
-   ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_URL)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](YOUR_FREECODECAMP_URL)
-[![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?style=for-the-badge&logo=theodinproject&logoColor=white)](https://www.theodinproject.com/)
 
-<br>
+ ## Socials
+ [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](YOUR_CODECHEF_URL)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](YOUR_FREECODECAMP_URL)
+
   ## Progress Snake
   <div align="center">
   <img src="https://github.com/shivuxd/shivuxd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
