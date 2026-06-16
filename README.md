@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Bg.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/ShivuXD/ShivuXD/main/Bg.gif" width="100%">
 </p>
 
 
