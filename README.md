@@ -1,6 +1,8 @@
 <p align="center">
   <img src="./assets/bg.gif" width="100%">
 </p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+.+.+.;I'm+Shivam.;Aspiring+Computer+Engineer;Learning+Systems.+Building+what+survives.)](https://git.io/typing-svg)
 
 
