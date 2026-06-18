@@ -13,13 +13,11 @@
 <h4 align="center"><font color="#9B30FF">- Me</font></h4>
 
 <br>
-
-
-## Operational Stack
-
 <div align="right">
   <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
 </div>
+
+## Operational Stack
 
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
