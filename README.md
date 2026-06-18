@@ -38,11 +38,6 @@
 
    <br>  
 
-# Featured Projects
-### Ignite Martial Arts Academy
-Live Website: https://ignitemartialartsindia.vercel.app
-
-A modern martial arts academy website built with React, TypeScript, Tailwind CSS and Framer Motion.
  # Socials
  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivmamba/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivushinkai)
