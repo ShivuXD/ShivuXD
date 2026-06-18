@@ -10,7 +10,6 @@
     "Code...code always changes."
   </font>
 </h5>
-<h4 align="center"><font color="#9B30FF">- Me</font></h4>
 
 <br>
 
