@@ -13,7 +13,9 @@
 <h4 align="center"><font color="#9B30FF">- Me</font></h4>
 
 <br>
+<h4 align="right">
 <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
+</h4>
 
 ## Operational Stack
 
