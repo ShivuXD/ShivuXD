@@ -16,7 +16,6 @@
 
 
 ## Operational Stack
-<br><br><br><br>
 
 <div align="right">
   <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
