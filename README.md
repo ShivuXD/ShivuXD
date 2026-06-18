@@ -17,7 +17,7 @@
 <h4 align="center"><font color="#9B30FF">- Me</font></h4>
 
 <br>
-<img src="https://i.postimg.cc/XYxBr9vM/Githublaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.postimg.cc/MKL8b85V/loq.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Operational Stack
 
