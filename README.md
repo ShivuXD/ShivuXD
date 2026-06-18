@@ -37,14 +37,16 @@
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/ShivuXD)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pgadmin.svg"/>](https://www.postgresql.org/)
 
+   ### Database
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
+
+
   <p align="right">
   <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="350px">
 </p>
 
-### Database
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
 
   
 
