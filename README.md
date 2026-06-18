@@ -16,9 +16,8 @@
 
 
 # Operational Stack
-<div align="right">
-  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="280">
-</div>
+
+<img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320" align="right">
 
 
 ### Core Technologies
