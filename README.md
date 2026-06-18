@@ -17,7 +17,7 @@
 ## Operational Stack
  <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
