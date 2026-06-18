@@ -17,9 +17,7 @@
 
 ## Operational Stack
 
- <div align="right">
-  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
-</div>
+
 
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
@@ -28,6 +26,9 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
+   <div align="right">
+  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
+</div>
   
   
   ### Programming Arsenal
