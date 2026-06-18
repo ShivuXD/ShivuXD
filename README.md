@@ -30,6 +30,7 @@
   <p align="right">
   <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
 </p>
+
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>](https://colab.research.google.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Dev-C%2B%2B_logo.png"/>](https://www.dev-cpp.com/)
