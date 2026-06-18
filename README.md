@@ -13,11 +13,10 @@
 <h4 align="center"><font color="#9B30FF">- Me</font></h4>
 
 <br>
+<img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
 
 ## Operational Stack
- <table>
-<tr>
-<td width="65%" valign="top">
+
 
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
@@ -45,14 +44,6 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
   </td>
 
-<td width="40%" align="center" valign="middle">
-
-<img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
-
-</td>
-</tr>
-</table>
-  
    <br>  
 
  # Socials
