@@ -20,10 +20,10 @@
 
 ## Operational Stack
 
-<img width="779" height="637" alt="image" src="https://github.com/user-attachments/assets/ee1beb53-c286-4262-985e-013b2889db19" />
 
-
-
+<p align="center">
+  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="350px">
+</p>
 
 
 ### Core Technologies
