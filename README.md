@@ -1,4 +1,4 @@
-<p>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b8c88917-aa57-469c-ab28-ed0aea741b1d" /><p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+.+.+.;I'm+Shivam.;Aspiring+Computer+Engineer;Learning+Systems.+Building+what+survives.)](https://git.io/typing-svg)
 </p>
@@ -27,7 +27,11 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
   
-
+### Frameworks
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=next"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>
   
   
   ### Programming Arsenal
