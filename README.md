@@ -17,10 +17,12 @@
 <h4 align="center"><font color="#9B30FF">- Me</font></h4>
 
 <br>
-<p align="center">
-  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="350px">
-</p>
+
 ## Operational Stack
+
+<img width="779" height="637" alt="image" src="https://github.com/user-attachments/assets/ee1beb53-c286-4262-985e-013b2889db19" />
+
+
 
 
 
