@@ -21,11 +21,6 @@
 ## Operational Stack
 
 
-<p align="center">
-  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="350px">
-</p>
-
-
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://installc.org/)
@@ -46,6 +41,13 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
+
+  
+<p align="right">
+  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="350px">
+</p>
+
+
 
    <br>  
 
