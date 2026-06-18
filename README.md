@@ -15,9 +15,9 @@
 <br>
 
 ## Operational Stack
-  <p align="right">
-  <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
-</p>
+ <table>
+<tr>
+<td width="60%" valign="top">
 
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
@@ -43,6 +43,15 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
+  </td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320">
+
+</td>
+</tr>
+</table>
   
    <br>  
 
