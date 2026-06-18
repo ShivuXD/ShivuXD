@@ -15,7 +15,7 @@
 <br>
 
 
-## Operational Stack
+# Operational Stack
 <div align="right">
   <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="280">
 </div>
