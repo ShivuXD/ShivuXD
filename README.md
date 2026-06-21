@@ -44,7 +44,7 @@
 
   ## Progress Snake
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ShivuXD/ShivuXD/output/cyan.gif" />
+  <img src="https://raw.githubusercontent.com/ShivuXD/ShivuXD/output/github-snake-dark.svg" />
 </div>
 
 
