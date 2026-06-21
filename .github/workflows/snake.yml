@@ -1,44 +1,33 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
 
 permissions:
-  contents: write
+contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+build:
+runs-on: ubuntu-latest
 
-    steps:
-      
-      - uses: actions/checkout@v3
+```
+steps:
+  - uses: actions/checkout@v3
 
-      
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
+  - uses: Platane/snk@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
 
-          
-          color_snake: "#ff8800"
+      outputs: |
+        dist/github-contribution-grid-snake-dark.svg?color_snake=%2300FFFF&color_dots=%230D1117,%23003344,%23006688,%2300AACC,%2300FFFF
+        dist/github-contribution-grid-snake.svg?color_snake=%2300FFFF&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%2300FFFF
 
-          
-            0: "#161b22"
-            1: "#3a2600"
-            2: "#7a4a00"
-            3: "#cc6f00"
-            4: "#ff8800"
-
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-
-      
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  - uses: crazy-max/ghaction-github-pages@v3.1.0
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
