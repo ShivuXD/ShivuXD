@@ -21,8 +21,8 @@ steps:
       github_user_name: ${{ github.repository_owner }}
 
       outputs: |
-        dist/github-contribution-grid-snake-dark.svg?color_snake=%2300FFFF&color_dots=%230D1117,%23003344,%23006688,%2300AACC,%2300FFFF
-        dist/github-contribution-grid-snake.svg?color_snake=%2300FFFF&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%2300FFFF
+        dist/github-contribution-grid-snake-dark.svg?color_snake=%239330FF&color_dots=%230D1117,%232D0A52,%234B0082,%236A0DAD,%239330FF
+        dist/github-contribution-grid-snake.svg?color_snake=%239330FF
 
   - uses: crazy-max/ghaction-github-pages@v3.1.0
     with:
