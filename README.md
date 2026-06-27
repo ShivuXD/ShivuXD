@@ -16,7 +16,9 @@
 
 # Operational Stack
 
+
 <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="320" align="right">
+
 
 ### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
