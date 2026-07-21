@@ -1,4 +1,4 @@
-<p>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2d8ce551-0df9-4423-bf3a-1eed917b7dd6" /><p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B30FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+.+.+.;I'm+Shivam.;Aspiring+Computer+Engineer;Learning+Systems.+Building+what+survives.)](https://git.io/typing-svg)
 </p>
@@ -26,13 +26,16 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
 ### Platforms
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/svg/448236/linux"/>](https://linux.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mint"/>](https://linuxmint.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kali"/>](https://www.kali.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev/)
-  ### Database
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
+  ### Cybersecurity
+  <a href="https://app.hackthebox.com/profile/YOUR_ID" target="_blank">
+  <img height="48px" width="48px" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>
+</a>
+  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
+  <img height="48px" width="48px" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme"/>
+</a>
   
 
    <br>  
