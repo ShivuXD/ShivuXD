@@ -39,6 +39,7 @@
 <a href="https://tryhackme.com/" target="_blank">
   <img height="48px" width="48px" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/>
 </a>
+  <img height="48px" width="48px" alt="SSH" src="https://cdn.simpleicons.org/gnubash"/>
   
   
 
