@@ -34,7 +34,7 @@
 ### Cybersecurity
   <a href="https://app.hackthebox.com/profile/YOUR_ID" target="_blank">
   <img height="48px" width="48px" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>
-  <img height="48px" width="48px" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme"/>
+  <img height="48px" width="48px" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/>
   
 </a>
   
