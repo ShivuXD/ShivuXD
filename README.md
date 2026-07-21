@@ -32,18 +32,17 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kali"/>](https://www.kali.org/)
 
 ### Cybersecurity
- <a href="https://www.hackthebox.com/" target="_blank">
-  <img height="48px" width="48px" alt="Hack The Box"
-       src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>
-</a>
+ <p>
+  <a href="https://www.hackthebox.com/" target="_blank">
+    <img height="48" width="48" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>
+  </a>
 
-<a href="https://tryhackme.com/" target="_blank">
-  <img height="48px" width="48px" alt="TryHackMe"
-       src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/>
-</a>
+  <a href="https://tryhackme.com/" target="_blank">
+    <img height="48" width="48" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/>
+  </a>
 
-<img height="48px" width="48px" alt="SSH"
-     src="https://skillicons.dev/icons?i=bash"/>
+  <img height="48" width="48" alt="SSH" src="https://skillicons.dev/icons?i=bash"/>
+</p>
  
   
   
