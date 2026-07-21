@@ -20,17 +20,18 @@
 <img src="https://i.postimg.cc/MKL8b85V/loq.png" width="300" align="right">
 
 
-## Core Technologies
+### Core Technologies
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://installc.org/)
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
-## Platforms
+
+### Platforms
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mint"/>](https://linuxmint.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kali"/>](https://www.kali.org/)
-  ## Cybersecurity
-  
+
+### Cybersecurity
   <a href="https://app.hackthebox.com/profile/YOUR_ID" target="_blank">
   <img height="48px" width="48px" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>
   <img height="48px" width="48px" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme"/>
