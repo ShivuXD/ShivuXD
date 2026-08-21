@@ -30,11 +30,11 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mint"/>](https://linuxmint.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kali"/>](https://www.kali.org/)
+  <img height="48" width="48" alt="SSH" src="https://skillicons.dev/icons?i=bash"/>
 
 ### Cybersecurity
   
-  <img height="48" width="48" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>  <img height="48" width="48" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/>  <img height="48" width="48" alt="SSH" src="https://skillicons.dev/icons?i=bash"/>
-  <img height="48" width="48" alt="picoCTF" src="https://cdn.simpleicons.org/picoctf"/>
+  <img height="48" width="48" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>  <img height="48" width="48" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/> <img height="48" width="48" alt="picoCTF" src="https://cdn.simpleicons.org/picoctf"/>
   
   
 
