@@ -33,7 +33,7 @@
 
 ### Cybersecurity
   
-  <img height="48" width="48" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>  <img height="48" width="48" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/> <img height="48" width="48" alt="picoCTF" src="https://cdn.simpleicons.org/picoctf"/>
+  <img height="48" width="48" alt="Hack The Box" src="https://cdn.simpleicons.org/hackthebox/9FEF00"/>  <img height="48" width="48" alt="TryHackMe" src="https://cdn.simpleicons.org/tryhackme/FFFFFF"/>
   
   
 
