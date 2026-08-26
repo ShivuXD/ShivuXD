@@ -26,12 +26,13 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  <img height="48" width="48" alt="SSH" src="https://skillicons.dev/icons?i=bash"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=powershell"/>
 
 ### Platforms
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://linux.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kali"/>](https://www.kali.org/)
-  <img height="48" width="48" alt="SSH" src="https://skillicons.dev/icons?i=bash"/>
+
 
 ### Cybersecurity
   
