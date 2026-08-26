@@ -25,7 +25,7 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://share.google/WorSDGb2YMoyrLS56)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
   
 
 ### Platforms
